@@ -2,7 +2,7 @@
 
 Icecast2 Dockerfile
 
-[![](http://dockeri.co/image/moul/icecast)](https://index.docker.io/u/moul/icecast/) [img[GuardRails badge](https://badges.production.guardrails.io/moul/docker-icecast.svg)](https://www.guardrails.io)
+[![](http://dockeri.co/image/moul/icecast)](https://index.docker.io/u/moul/icecast/) [img](https://badges.production.guardrails.io/moul/docker-icecast.svg)](https://www.guardrails.io)
 
 ## Run
 
