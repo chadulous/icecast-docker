@@ -85,7 +85,8 @@
     -->
 
     <!-- Only define a <mount> section if you want to use advanced options,
-         like alternative usernames or passwords
+         like alternative usernames or passwords 
+    -->
     <mount>
         <mount-name>/example-complex.ogg</mount-name>
 
@@ -109,6 +110,7 @@
         <on-disconnect>/home/icecast/bin/stream-stop</on-disconnect>
     </mount>
 
+    <!--
     <mount>
         <mount-name>/auth_example.ogg</mount-name>
         <authentication type="url">
