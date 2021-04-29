@@ -20,5 +20,6 @@ set_val $ICECAST_PASSWORD        password
 set_val $ICECAST_HOSTNAME        hostname
 
 set -e
-
+docker run -p 8000:8000 moul/icecast
+$BROWSER localhost:8000
 sudo -Eu icecast2 icecast2 -n -c /etc/icecast2/icecast.xml
